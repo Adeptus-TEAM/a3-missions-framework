@@ -48,6 +48,8 @@ a3-missions-framework/
 
 ## 📜 Licence
 
+<img src="https://www.bohemia.net/assets/img/licenses/APL-ND.png" alt="logoBanner" width=512px/>
+
 Le code source et les ressources **originales** de ce projet sont disponibles sous licence [APL-ND](https://www.bohemia.net/community/licenses/arma-public-license-nd).  
 Veuillez noter que **les éléments inspirés de franchises existantes ne sont pas couverts par cette licence**.
 
