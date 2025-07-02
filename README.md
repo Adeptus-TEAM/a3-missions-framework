@@ -12,36 +12,45 @@
 ## 🧰 Contenu
 
 Ce framework contient :
+
 - Des **templates de mission** pour Game Masters (GM)
 - Des bases prêtes à l'emploi pour les **bootcamps** et trainings
 - Un environnement de mission VR pour les tests rapides
 - Un preset Arma 3 cohérent avec notre univers Star Wars
 
 ## 🎫 Preset
+
 > - **Star Wars : 61st Adeptus Républica Preset**
 
 ## 🧩 Carte utilisée
-> - **VR** *(Virtual Reality map pour tests et préparations)*
-> - **Stratis** *(Entraînements)*
+
+> - **VR** _(Virtual Reality map pour tests et préparations)_
+> - **Stratis** _(Entraînements)_
 
 ## 📂 Arborescence type
+
 ```
 a3-missions-framework/
 ├── templates/ # Missions vierges pour GM
 ├── trainings/ # Bootcamps & scénarios d'entraînement
 └── README.md
 ```
+
 ## 🤝 Contributeurs
 
 <div align="center">
   <a href="https://github.com/Admors/adeptusAuxiliaire/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Adeptus-TEAM/a3-missions-framework"/>
+    <img src="https://contrib.rocks/image?repo=Adeptus-TEAM/a3-aux-adeptus"/>
+  </a>
+  <br/><br/>
+  <p>Nous remercions tous nos Visual Editors et Techniciens pour leur travail sur ce mod.</p>
 </div>
 
 ## 📜 Licence
+
 Le code source et les ressources **originales** de ce projet sont disponibles sous licence [APL-SA](https://www.bohemia.net/community/licenses/arma-public-license-share-alike).  
 Veuillez noter que **les éléments inspirés de franchises existantes ne sont pas couverts par cette licence**.
-<br/>
+
 > [!CAUTION]
 > This mod is an unofficial resource and is not affiliated with Lucasfilm Ltd, the Walt Disney Company, Electronic Arts Inc., or Twentieth Century Fox. The "Star Wars" brand and all intellectual content in this mod are based on the property of The Walt Disney Company.
 >
