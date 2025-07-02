@@ -43,7 +43,7 @@ a3-missions-framework/
     <img src="https://contrib.rocks/image?repo=Adeptus-TEAM/a3-aux-adeptus"/>
   </a>
   <br/><br/>
-  <p>Nous remercions tous nos Visual Editors et Techniciens pour leur travail sur ce mod.</p>
+  <p>Nous remercions tous nos Visual Editors et Techniciens pour leur travail sur ces missions.</p>
 </div>
 
 ## 📜 Licence
