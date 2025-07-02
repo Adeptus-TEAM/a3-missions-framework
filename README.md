@@ -6,8 +6,9 @@
 
 # A3 Missions Framework – Adeptus Républica
 
-> [!IMPORTANT]  
-> Ce dépôt est strictement réservé à un usage interne par les Game Masters de l'équipe **Adeptus Républica**. Toute utilisation ou diffusion non autorisée est interdite.
+> [!IMPORTANT]
+> Ce dépôt est strictement réservé à un usage interne par les Game Masters de l'équipe Adeptus Républica.
+> Toute utilisation ou diffusion non autorisée, en dehors d’un droit de lecture, est interdite.
 
 ## 🧰 Contenu
 
