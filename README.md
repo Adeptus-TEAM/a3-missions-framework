@@ -22,7 +22,7 @@ Ce framework contient :
 
 ## 🧩 Carte utilisée
 > - **VR** *(Virtual Reality map pour tests et préparations)*
-> - Stratis *(Entraînements)*
+> - **Stratis** *(Entraînements)*
 
 ## 📂 Arborescence type
 ```
